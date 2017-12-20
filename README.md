@@ -1,6 +1,6 @@
 # Reddit Daily Programmer
 
-This is my collection of code solutions to Reddit's r/DailyProgrammer subreddit. I have intentionally left some solutions unfinished to document the progression of my thought process. When possible, I've included a flowchart of the initial path to work through the solution. It may not describe the final execution path of the code, but is another way I tried to document my thought process.
+This is my collection of code solutions to Reddit's [r/DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) subreddit. I have intentionally left some solutions unfinished to document the progression of my thought process. When possible, I've included a flowchart of the initial path to work through the solution. It may not describe the final execution path of the code, but is another way I tried to document my thought process.
 
 
 The folder name format is XXXY where XXX stands for the challenge number and Y is the difficulty level of the challenge (E for Easy, I for Intermediate, and H for Hard).
